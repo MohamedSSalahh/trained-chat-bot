@@ -114,18 +114,18 @@ erDiagram
     }
     
     TENANT_SCHEMA_1 {
-        string "Tenant-specific tables"
-        string "Isolated data"
+        string tenant_tables
+        string isolated_data
     }
     
     TENANT_SCHEMA_2 {
-        string "Tenant-specific tables"
-        string "Isolated data"
+        string tenant_tables
+        string isolated_data
     }
     
     TENANT_SCHEMA_N {
-        string "Tenant-specific tables"
-        string "Isolated data"
+        string tenant_tables
+        string isolated_data
     }
 ```
 
